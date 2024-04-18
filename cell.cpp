@@ -1,4 +1,4 @@
-#include "Cell.h"
+#include "cell.h"
 
 std::ostream& operator<<(std::ostream& out, const std::vector<int>& ob) {
     out << "[";

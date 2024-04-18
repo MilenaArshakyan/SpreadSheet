@@ -1,4 +1,4 @@
-#include "SpreadSheet.h"
+#include "spreadSheet.h"
 
 SpreadSheet::SpreadSheet() : board {new Cell*[2]}, rowcnt{2}, colcnt{2}
 {
