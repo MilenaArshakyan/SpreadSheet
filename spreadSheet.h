@@ -7,7 +7,7 @@
 #include <initializer_list>
 #include <iomanip>
 
-#include "Cell.h"
+#include "cell.h"
 
 class SpreadSheet
 {

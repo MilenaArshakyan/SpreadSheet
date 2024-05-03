@@ -1,4 +1,4 @@
-#include "SpreadSheet.h"
+#include "spreadSheet.h"
 
 int main()
 {
